@@ -1,31 +1,30 @@
 ---
 title: My Second Post
-date: 2018-02-09T18:48:04-05:00
-lastmod: 2018-02-09T18:48:04-05:00
+date: 2018-02-09 18:48:04 -0500
+lastmod: 2018-02-09 23:48:04 +0000
 author: Author Name
-categories: ["category1"]
-tags: ["tag1", "tag2"]
+categories:
+- category1
+tags:
+- tag1
+- tag2
 draft: true
----
 
+---
 Cut out summary from your post content here.
 
+this is really funny e=mc2, and also how about this:
 
-this is really funny $e = mc^2$, and also how about this:
+Ok let's see if this sticks...
+
+how about this e=mc2
+
+And no math?
 
 <!--more-->
 
-<div>
-$$
-\begin{align}
-x &= \sum_{i=1}^n x_i \\
-  &= \int_0^1 \exp(-\beta x_i)
-  \end{align}
-  $$
-  </div>
+<div> x=n∑i=1xi =∫10exp(−βxi) </div>
 
 How is this working
-
-
 
 The remaining content of your post.
