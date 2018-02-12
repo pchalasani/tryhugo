@@ -1,14 +1,14 @@
 ---
 title: My Second Post
-date: 2018-02-09 18:48:04 -0500
-lastmod: 2018-02-09 23:48:04 +0000
+date: '2018-02-09 18:48:04 -0500'
+lastmod: '2018-02-09 23:48:04 +0000'
 author: Author Name
 categories:
-- category1
+  - category1
 tags:
-- tag1
-- tag2
-
+  - tag1
+  - tag2
+published: true
 ---
 let's try some inline math \\( e^{i\pi} = -1 \\) is probably one of the most beautiful equations in math,
 
@@ -23,3 +23,5 @@ E = \sum_{i=0}^\infty m_i c_i^2
 \]
 
 </div>
+
+That should work fine
