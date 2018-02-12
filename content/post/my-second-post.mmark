@@ -11,20 +11,16 @@ tags:
 draft: true
 
 ---
-Cut out summary from your post content here.
+let's try some inline math \\( e^{i\pi} = -1 \\) is probably one of the most beautiful equations in math,
 
-this is really funny e=mc2, and also how about this:
+and what about dislayed math? 
 
-Ok let's see if this sticks...
+<div>
 
-how about this e=mc2
+\[
 
-And no math?
+E = \sum_{i=0}^\infty m_i c_i^2
 
-<!--more-->
+\]
 
-<div> x=n∑i=1xi =∫10exp(−βxi) </div>
-
-How is this working
-
-The remaining content of your post.
+</div>
