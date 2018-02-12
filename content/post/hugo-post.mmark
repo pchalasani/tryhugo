@@ -1,7 +1,6 @@
 ---
 title: Hugo Post
 date: 2018-02-12 16:09:45 -0500
-draft: true
 
 ---
 inline math within dollar-signs within an "inline-code" text `$a_i + b^2$`  but this produces a shading we don't want
