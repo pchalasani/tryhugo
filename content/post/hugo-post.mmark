@@ -3,13 +3,13 @@ title: Hugo Post
 date: 2018-02-12 16:09:45 -0500
 
 ---
-inline math within dollar-signs within an "inline-code" text `$a_i + b^2$`  but this produces a shading we don't want
+Inline math within dollar-signs within an "inline-code" text `$a_i + b^2$`  but this produces a shading we don't want
 
 With forestry when editing inline math equations we need to carefully watch for the rich-text editor inserting extra backslashes, munging underscores, etc.
 
-Inline math with backslash-parens:  \\( E = mc^2 - a_i + \sum_i y_i \\)
+Inline math with double-backslash-parens:  \\( E = mc^2 - a_i + \\sum_i y_i \\) works just fine.
 
-Weirdly, inline math within dollar signs $ E = mc^2 - a_i + \sum_i $ also works but the fonts are subtly different.
+Weirdly, inline math within dollar signs $ E = mc^2 - a_i + \sum_i y_i $ also works but the fonts are subtly different.
 
 Normal display math enclosed in double-dollar signs:
 
