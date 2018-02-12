@@ -1,6 +1,4 @@
 ---
-pages:
-- post/post-from-forestry-.md
 hide_body: false
 fields:
 - name: title
