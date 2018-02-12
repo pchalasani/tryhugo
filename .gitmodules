@@ -16,3 +16,6 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/crisp"]
+	path = themes/crisp
+	url = https://github.com/Zenithar/hugo-theme-crisp.git

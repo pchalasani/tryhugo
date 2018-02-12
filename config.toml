@@ -1,7 +1,7 @@
 baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "What was I thinking"
+title = "Thoughts on Stuff"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ disqusShortname = "pchalasani"
 
 [Params]
   subtitle = "Talking about things"
-  logo = "img/avatar-icon.png"
+  logo = "img/path.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -38,28 +38,15 @@ disqusShortname = "pchalasani"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "username"
-  gitlab = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
+  name = "Prasad Chalasani"
+  website = "pchalasani.netlify.com"
+  email = "pchalasani@gmail.com"
+  googleplus = "pchalasani" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "pchalasani"
+  twitter = "pchalasani"
+  reddit = "pchalasani"
+  linkedin = "prasad-chalasani-87827"
+  youtube = "user/pchalasani" # or channel/channelname
 
 [[menu.main]]
     name = "Blog"
