@@ -8,7 +8,6 @@ categories:
 tags:
 - tag1
 - tag2
-draft: true
 
 ---
 let's try some inline math \\( e^{i\pi} = -1 \\) is probably one of the most beautiful equations in math,
