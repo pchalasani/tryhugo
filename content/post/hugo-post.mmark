@@ -9,7 +9,7 @@ With forestry when editing inline math equations we need to carefully watch for 
 
 Inline math with double-backslash-parens:  \\( E = mc^2 - a_i + \\sum_i y_i \\) works just fine.
 
-Weirdly, inline math within dollar signs $ E = mc^2 - a_i + \sum_i y_i $ also works but the fonts are subtly different.
+Weirdly, inline math within dollar signs $ E = mc^2 - a_i + \\sum_i y_i $ also works but the fonts are subtly different.
 
 Normal display math enclosed in double-dollar signs:
 
@@ -31,3 +31,9 @@ display math with equation aligned (note we don't need the double-dollar sign, s
     \end{align}
 
 </div>
+
+Let's try a code sample
+
+    python
+    def junk(a,b):
+    	return a+b
