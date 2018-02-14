@@ -1,9 +1,8 @@
 ---
 title: Hugo Post
 date: 2018-02-12 16:09:45 -0500
----
 
-Inline math within dollar-signs within an "inline-code" text `$a_i \sum_i b^2 y_i$`  but this produces a shading we don't want
+---
 
 With forestry when editing inline math equations we need to carefully watch for the rich-text editor inserting extra backslashes, munging underscores, etc.
 
@@ -40,7 +39,7 @@ Let's try some python code with highlighting:
 
     def junk(a,b):
     	return a+b  # just the sum
-
+    
     for a in [1,2,3,4]:
     	print a
 
