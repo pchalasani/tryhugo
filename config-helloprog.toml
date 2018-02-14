@@ -1,0 +1,15 @@
+baseurl = "/"
+title = "absolutely nothing at all"
+languageCode = "en-US"
+
+theme = "hugo-hello-programmer-theme"
+
+
+paginate = 2
+
+disqusShortname = "pchalasani"
+#googleAnalytics = "UA-XXXXXXXX-X"
+
+[author]
+    name = "Prasad Chalasani"
+    email = "pchalasani@gmail.com"

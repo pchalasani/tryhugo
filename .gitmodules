@@ -19,3 +19,18 @@
 [submodule "themes/crisp"]
 	path = themes/crisp
 	url = https://github.com/Zenithar/hugo-theme-crisp.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/Vimux/Mainroad.git
+[submodule "themes/startbootstrap-clean-blog"]
+	path = themes/startbootstrap-clean-blog
+	url = https://github.com/humboldtux/startbootstrap-clean-blog.git
+[submodule "themes/slim"]
+	path = themes/slim
+	url = https://github.com/zhe/hugo-theme-slim.git
+[submodule "themes/hugo-hello-programmer-theme"]
+	path = themes/hugo-hello-programmer-theme
+	url = https://github.com/lubang/hugo-hello-programmer-theme.git
+[submodule "themes/casper"]
+	path = themes/casper
+	url = https://github.com/vjeantet/hugo-theme-casper.git
