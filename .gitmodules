@@ -34,3 +34,9 @@
 [submodule "themes/casper"]
 	path = themes/casper
 	url = https://github.com/vjeantet/hugo-theme-casper.git
+[submodule "themes/casper-two"]
+	path = themes/casper-two
+	url = https://github.com/eueung/hugo-casper-two.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
