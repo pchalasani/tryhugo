@@ -1,9 +1,9 @@
 ---
 title: Hugo Post
-date: 2018-02-12 16:09:45 -0500
-
+date: '2018-02-12 16:09:45 -0500'
+published: true
 ---
-Inline math within dollar-signs within an "inline-code" text `$a_i + b^2$`  but this produces a shading we don't want
+
 
 With forestry when editing inline math equations we need to carefully watch for the rich-text editor inserting extra backslashes, munging underscores, etc.
 
