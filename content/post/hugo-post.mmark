@@ -1,8 +1,20 @@
----
-title: Hugo Post
-date: '2018-02-12 16:09:45 -0500'
-published: true
----
++++
+date = "2014-07-11T10:54:24+02:00"
+draft = false
+title = "How to Set up a Hugo Blog"
+subtitle = "basic instructions"
+slug = "post-title"
+tags = ["blog","howto", "hugo"]
+image = ""
+comments = true # set false to hide Disqus
+share = true    # set false to hide share buttons
+menu= "main"          # set "main" to add this content to the main menu
+author = "Prasad Chalasani"
+featured = true
+description = "Walks you through all the steps you need to have a nice blog running"
+published = true
++++
+
 
 With forestry when editing inline math equations we need to carefully watch for the rich-text editor inserting extra backslashes, munging underscores, etc.
 
