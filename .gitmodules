@@ -40,3 +40,9 @@
 [submodule "themes/even"]
 	path = themes/even
 	url = https://github.com/olOwOlo/hugo-theme-even.git
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = https://github.com/zyro/hyde-x.git
+[submodule "themes/hugo-theme-bleak"]
+	path = themes/hugo-theme-bleak
+	url = https://github.com/Zenithar/hugo-theme-bleak.git

@@ -39,11 +39,11 @@ Let's try some python code with highlighting:
 
 {{< highlight python >}}
 
-    def junk(a,b):
-    	return a+b  # just the sum
-    
-    for a in [1,2,3,4]:
-    	print a
+def junk(a,b):
+    return a+b  # just the sum
+
+for a in [1,2,3,4]:
+    print a
 
 {{< /highlight >}}
 
