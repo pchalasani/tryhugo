@@ -5,9 +5,9 @@ title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+#pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "pchalasani"
@@ -15,7 +15,7 @@ disqusShortname = "pchalasani"
 
 [Params]
   subtitle = "Build a beautiful and simple website in minutes"
-  logo = "img/avatar-icon.png"
+  logo = "img/path.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
