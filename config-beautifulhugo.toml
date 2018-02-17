@@ -1,7 +1,7 @@
 baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Thoughts on Stuff"
+title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -14,8 +14,8 @@ disqusShortname = "pchalasani"
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Talking about things"
-  logo = "img/path.jpg"
+  subtitle = "Build a beautiful and simple website in minutes"
+  logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -39,14 +39,27 @@ disqusShortname = "pchalasani"
 
 [Author]
   name = "Prasad Chalasani"
-  website = "pchalasani.netlify.com"
+#  website = "yourwebsite.com"
   email = "pchalasani@gmail.com"
-  googleplus = "pchalasani" # or xxxxxxxxxxxxxxxxxxxxx
+#  facebook = "username"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "pchalasani"
+#  gitlab = ""
   twitter = "pchalasani"
   reddit = "pchalasani"
-  linkedin = "prasad-chalasani-87827"
-  youtube = "user/pchalasani" # or channel/channelname
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  soundcloud = "username"
+  spotify = "username"
+  bandcamp = "username"
+  itchio = "username"
+  vk = "username"
+  paypal = "username"
+  telegram = "username"
 
 [[menu.main]]
     name = "Blog"
