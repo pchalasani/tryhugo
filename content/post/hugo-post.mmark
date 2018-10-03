@@ -37,7 +37,7 @@ Let's try some python code with highlighting:
 
 <div>
 
-{{< highlight python >}}
+{{< highlight python "linenos=table">}}
 
     def junk(a,b):
     	return a+b  # just the sum
